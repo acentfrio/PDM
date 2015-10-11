@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TMDBapp Beta</string>
+    <string name="search_title">Search</string>
+
+
+        <string-array name="planets_array">
+            <item>Mercury</item>
+            <item>Venus</item>
+            <item>Earth</item>
+            <item>Mars</item>
+        </string-array>
+
+</resources>
