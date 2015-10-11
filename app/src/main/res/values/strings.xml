@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">TMDBapp Beta</string>
     <string name="search_title">Search</string>
-
+    <string name="menu_item_populares">Populares</string>
+    <string name="menu_item_maisVotados">Mais Votados</string>
+    <string name="menu_item_brevemente">Brevemente</string>
+    <string name="menu_item_emExibicao">Em Exibicao</string>
 
         <string-array name="planets_array">
             <item>Mercury</item>
